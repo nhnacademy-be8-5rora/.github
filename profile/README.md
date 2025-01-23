@@ -15,14 +15,31 @@
 
 
 ## 1. 팀원
-- [유혜원](https://github.com/00dbgpdnjs)
-- [방준엽](https://github.com/bang9878)
-- [강산천](https://github.com/ksc4305)
-- [김창환](https://github.com/hwan4338)
-- [오유민](https://github.com/umin-o)
-- [김형우](https://github.com/adffdfewqefw)
-- [이승찬](https://github.com/sngchn13)
-- [송주헌](https://github.com/sjh1108)
+<div align="center" dir="auto">
+  <div class="markdown-heading" dir="auto">
+    <h3 class="heading-element" dir="auto"> NHN Academy 8기 - 5rora 팀 </h3>
+    <a id="user-content--nhn-academy-8기---5rora-팀-" class="anchor" aria-label="Permalink:  NHN Academy 8기 - 5rora 팀"></a>
+  </div>
+  <markdown-accessiblity-table data-catalyst="">
+    <table>
+      <thead>
+        <tr>
+          <th><a href="https://github.com/00dbgpdnjs"><img src="https://github.com/00dbgpdnjs.png" width="100px" style="max-width: 100%;"><br>유혜원</a></th>
+          <th><a href="https://github.com/bang9878"><img src="https://github.com/bang9878.png" width="100px" style="max-width: 100%;"><br>방준엽</a></th>
+          <th><a href="https://github.com/ksc4305"><img src="https://github.com/ksc4305.png" width="100px" style="max-width: 100%;"><br>강산천</a></th>
+          <th><a href="https://github.com/hwan4338"><img src="https://github.com/hwan4338.png" width="100px" style="max-width: 100%;"><br>김창환</a></th>
+          <th><a href="https://github.com/umin-o"> <img src="https://github.com/umin-o.png" width="100px" style="max-width: 100%;"><br>오유민</a></th>
+          <th><a href="https://github.com/adffdfewqefw"> <img src="https://github.com/adffdfewqefw.png" width="100px" style="max-width: 100%;"><br>김형우</a></th>
+          <th><a href="https://github.com/sngchn13"> <img src="https://github.com/sngchn13.png" width="100px" style="max-width: 100%;"><br>이승찬</a></th>
+          <th><a href="https://github.com/sjh1108"> <img src="https://github.com/sjh1108.png" width="100px" style="max-width: 100%;"><br>송주헌</a></th>
+        </tr>
+      </thead>
+    </table>
+</markdown-accessiblity-table>
+</div>
+
+<br><br>
+
 
 ## 2. ERD
 ![erd diagram](images/erd.png)
@@ -191,12 +208,16 @@
   - OAuth 회원가입 api 구현
   - 회원 탈퇴 api 구현 및 view 구현
   - 회원 정보 조회 api 구현 및 마이페이지 view 구현
+  - 회원 정보 수정 api 구현 및 view 구현
   - 휴면계정 처리/해제 api 구현 view 구현
   - redis를 이용한 두레이 메신저 인증 api 구현
   - 회원 등급 업데이트 스케줄링 활용 구현
 - 리뷰
   - 리뷰 조회, 등록, 수정 api 구현
   - 리뷰 조회, 등록, 수정 view 구현
+- 암호화
+  - NHN Cloud Secure Key Manager을 적용하여 정보를 안전하게 보호
+
 
 ### 이승찬
 #### 담당
