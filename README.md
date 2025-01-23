@@ -25,8 +25,27 @@
 - [송주헌](https://github.com/sjh1108)
 
 ## 2. ERD
-![이미지 설명](images/erd.png)
+![erd diagram](images/erd.png)
 
-## DB
+### DB
 - [샵DDL코드보기](images/ddl-shop.sql)
 - [쿠폰DDL코드보기](images/ddl-coupon.sql)
+
+## 3. 아키텍처
+![아키텍처 구성도](images/Architecture.jpg)
+
+**네트워크 설계**
+- Spring Gateway가 각 서버를 효율적으로 찾아가기 위해 Spring Eureka를 사용하여 서버의 내부 정보를 캐싱하여 네트워크를 설계하였습니다.
+**인증**
+- 여러 서버에서 같은 토큰으로 인증을 관리하기 위해서 JWT 토큰을 도입하였습니다.
+
+## 4. CI/CD
+![CI/CD 구성도](images/ci-cd.png)
+- 코드가 main에 머지됐을 때 ci/cd 깃 액션이 반응하게 파이프라인을 설계했습니다.
+- 코드가 develop push, pr, main pr이 됐을 때 ci 깃 액션이 반응하게 파이프라인을 설계했습니다.
+- 프론트, 샵 서버는 배포 빈도가 높기 떄문에 스크립트를 작성하여 무중단 배포를 구현하였습니다.
+
+## 5. 프로젝트 관리
+체계적이고 효율적인 관리를 위해, [Github Project](https://github.com/orgs/nhnacademy-be8-5rora/projects/1)을 활용하여 프로젝트를 진행하였습니다.
+
+### BackLog, RoadMap 활용
