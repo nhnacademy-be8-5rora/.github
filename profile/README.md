@@ -216,7 +216,7 @@ https://www.youtube.com/watch?v=M-VYLj8K49c
   - 리뷰 조회, 등록, 수정 api 구현
   - 리뷰 조회, 등록, 수정 view 구현
 - 암호화
-  - NHN Cloud Secure Key Manager을 적용하여 정보를 안전하게 보호
+  - NHN Cloud Secure Key Manager을 적용하여 데이터베이스 접속 정보 암호화
 
 
 ### 이승찬
