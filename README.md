@@ -54,3 +54,39 @@
 
 ### Scrum
 ![Scrum](images/scrum.png)
+
+- 스크럼은 평일, 하루에 한 번씩 진행하였습니다.
+
+### Issue관리
+![Issue관리](images/issue.png)
+개발시 Issue가 나왔을때 Issue관리를 통해서 해결하였습니다.
+
+### Manage
+![git-flow](images/git-flow-branch.png)
+- git flow branch 전략은 main/develop/feature로 나누어 개발을 하였습니다.
+- feature는 각각 기능을 만들때 사용하였고
+- develop은 기능이 완료되고 확인이 되었을때 pr을 올려 merge를 진행했습니다.
+- main은 배포시에 merge를 진행하였습니다.
+
+### PR, CodeReview
+![PR, CodeReview](images/code-review.png)
+- PR로 올려 팀원들이 코드리뷰를 진행하였습니다.
+
+### 일정관리 - WBS
+![일정관리](images/일정관리.png)
+- 일정은 도서, 주문, 회원, 쿠폰 파트로 나누어서 일정을 관리하였습니다.
+
+## 6. 테스트 커버리지
+
+### 샵 API 서버 테스트 커버리지
+![샵 API 서버 테스트 커버리지](images/shop-test-coverage.png)
+
+### 쿠폰 API 서버 테스트 커버리지
+![쿠폰 API 서버 테스트 커버리지](images/coupon-test-coverage.png)
+
+### 인증 API 서버 테스트 커버리지
+![인증 API 서버 테스트 커버리지](images/auth-test-coverage.png)
+
+## 7. REST API Specification
+![REST API Specification](images/shop-swagger.png)
+
