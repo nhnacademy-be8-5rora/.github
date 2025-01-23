@@ -210,7 +210,22 @@
 - 로그
   - nhn log & crash 적용
 
+## 기술
+- Spring
+  Spring, Spring Boot, Spring Security, Spring Cloud
 
+- DB
+  Redis, MySql
+
+- CI/CD
+  Github Actions, NHNCloud, Nginx, Ubuntu
+
+- Search
+  Elastic, kibana
+
+- 그 외 기술
+  JavaScript, HTML5, CSS3, JAVA, Hibernate, JPA, QueryDsl
+  SonarQube, JWT, RabbitMQ, Toss Payments, Swagger
 
 
 
