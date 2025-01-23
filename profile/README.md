@@ -2,7 +2,7 @@
 배포 사이트 들어가기 : https://5rora.store/
 
 ### 시연 영상 보기
-
+https://www.youtube.com/watch?v=M-VYLj8K49c
 
 
 ### 서버별 소스 리포지토리 경로
