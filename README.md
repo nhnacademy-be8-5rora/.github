@@ -49,3 +49,8 @@
 체계적이고 효율적인 관리를 위해, [Github Project](https://github.com/orgs/nhnacademy-be8-5rora/projects/1)을 활용하여 프로젝트를 진행하였습니다.
 
 ### BackLog, RoadMap 활용
+![RoadMap](images/BackLog.png)
+매일 10:00에 RoadMap과 BackLog를 활용하여 스크럼 회의를 진행했습니다.
+
+### Scrum
+![Scrum](images/scrum.png)
