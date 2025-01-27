@@ -1,5 +1,9 @@
 # 오로라 (5rora)
-배포 사이트 들어가기 : https://5rora.store/
+배포 사이트 들어가기 : 
+
+https://5rora.shop
+
+( https://5rora.store/ )
 
 ### 시연 영상 보기
 https://www.youtube.com/watch?v=M-VYLj8K49c
