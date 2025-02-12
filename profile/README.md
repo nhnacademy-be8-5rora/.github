@@ -235,6 +235,18 @@ https://www.youtube.com/watch?v=M-VYLj8K49c
 - 로그
   - nhn log & crash 적용
 
+
+### 방준엽
+#### 담당
+- 도서
+  - 도서 상세페이지 조회 api 구현
+- 태그
+  - 책 태그 CRUD api 구현
+- GATEWAY
+  - gateway로 각 해당 api 호출 구현
+  - gateway를 통한 JWT 토큰 검증
+
+
 ## 기술
 - Spring
   Spring, Spring Boot, Spring Security, Spring Cloud
